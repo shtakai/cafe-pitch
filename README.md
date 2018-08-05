@@ -1,5 +1,5 @@
 # CafePitch
-[![Build Status](https://travis-ci.org/joe-re/cafe-pitch.svg?branch=master)](https://travis-ci.org/joe-re/cafe-pitch)
+[![Build Status](https://travis-ci.org/joe-re/cafe-pitch.svg?branch=master)](https://travis-ci.org/joe-re/cafe-pitch) [![GuardRails badge](https://badges.production.guardrails.io/shtakai/cafe-pitch.svg)](https://www.guardrails.io)
 
 <img height="300" alt="cafe-pitch-logo" src="https://cloud.githubusercontent.com/assets/4954534/15095077/8e43e32e-14f2-11e6-98b4-6124b0e4561d.png"/>
 
